@@ -2,7 +2,7 @@
 
 This is a simple implementation of a [Revenge of the Pancakes](https://code.google.com/codejam/contest/6254486/dashboard) solution from Google Code Jam 2016, in a few different languages.
 
-The PHP implementation includes several possible solutions, while the Go and JavaScript versions only include the optimal solution.
+The PHP implementation includes several possible solutions, while the Go, JavaScript, and Python versions only include the optimal solution.
 
 ## Usage
 

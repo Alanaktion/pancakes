@@ -9,8 +9,7 @@ const BLANK = '-';
 /**
  * Blindly flip first blank pancake until whole stack is happy
  *
- * This works for short stacks, but longer stacks (len S ~= 100) can take
- * several nonillion iterations.
+ * This works for short stacks, but longer stacks can take >1e30 iterations
  *
  * @param string $input
  * @return int

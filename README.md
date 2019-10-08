@@ -10,6 +10,7 @@ The PHP implementation includes several possible solutions, while the Go and Jav
 php pancakes.php < tests/B-small-practice.in
 node pancakes.js < tests/B-small-practice.in
 go run pancakes.go < tests/B-small-practice.in
+python pancakes.py < tests/B-small-practice.in
 ```
 
 ## Example
